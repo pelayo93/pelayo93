@@ -2,7 +2,7 @@
 
 Desarrollador web Frontend. Tengo experiencia en React, Next.js, HTML, JavaScript, CSS, Astro y Strapi, y actualmente estoy aprendiendo Node.js.
 
-### 💻
+### 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)
