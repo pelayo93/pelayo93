@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola, soy Jesus Pelayo 👋
 
-<!--
-**pelayo93/pelayo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web apasionado por aprender y crear. Tengo experiencia en React, Next.js, HTML, JavaScript, CSS, Astro y Strapi, y actualmente estoy aprendiendo Node.js.
 
-Here are some ideas to get you started:
+## Mis proyectos
+Aquí hay algunos de los proyectos en los que he trabajado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nombre del proyecto 1**: Descripción breve del proyecto 1.
+- **Nombre del proyecto 2**: Descripción breve del proyecto 2.
+- **Nombre del proyecto 3**: Descripción breve del proyecto 3.
+
+## Contacto
+Siéntete libre de contactarme a través de LinkedIn o correo electrónico.
