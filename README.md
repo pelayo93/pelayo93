@@ -14,7 +14,7 @@ Aquí hay algunos de los proyectos en los que he trabajado:
 - **[GuitarLA_NextJS](https://github.com/pelayo93/guitarrala_nextjs12)**: Diseño de Tienda para Guitarras.
 - **[GuitarLA_Strapi](https://github.com/pelayo93/guitarla_strapi)**: Backend para el Proyecto de Guitarras.
 - **[Cripto_react](https://github.com/pelayo93/cripto_react)**: Proyecto que muestra el clima.
-- **Revisa mi [Perfil](https://github.com/pelayo93) si quieres ver todos mis Proyectos**
+- **Revisa mi [Perfil]([https://github.com/pelayo93](https://github.com/pelayo93?tab=repositories)) si quieres ver todos mis Proyectos**
 
 ## Contacto
 Siéntete libre de contactarme a través de Mis redes
