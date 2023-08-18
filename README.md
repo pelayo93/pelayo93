@@ -9,7 +9,7 @@ Desarrollador web Frontend. Tengo experiencia en React, Next.js, HTML, JavaScrip
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)
 
 ## Mis proyectos
-Aquí hay algunos de los proyectos en los que he trabajado:
+Aquí hay algunos de los proyectos que e hecho:
 
 - **[GuitarLA_NextJS](https://github.com/pelayo93/guitarrala_nextjs12)**: Diseño de Tienda para Guitarras.
 - **[GuitarLA_Strapi](https://github.com/pelayo93/guitarla_strapi)**: Backend para el Proyecto de Guitarras.
